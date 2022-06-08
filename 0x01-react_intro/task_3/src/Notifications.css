@@ -1,0 +1,19 @@
+.Notifications {
+    border: 1px dotted red;
+    padding: 10px;
+    color: #000;
+    height: 200px;
+}
+
+.Notifications button {
+    float: right;
+}
+
+.Notifications ul {
+    list-style-type: none;
+    color: red;
+}
+
+.Notifications ul li:first-child {
+    color: #0000dd;
+}
